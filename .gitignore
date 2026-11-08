@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production & Build outputs
+dist/
+dist-app/
+build/
+src-tauri/target/
+
+# Python & Engine
+engine/.venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Local LLM Models (large binary weights)
+*.gguf
+*.gguf.part
+*.part
+*.bin
+*.onnx
+
+# Exports & Scratch
+exports_demo/
+exports/
+*.epub
+*.mobi
+
+# Logs & Environment
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.local
+.env.*.local
+
+# OS Generated & Filesystem Artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

@@ -1,0 +1,676 @@
+[
+  {
+    "id": "losurdo",
+    "name": "Domenico Losurdo - Contra-História do Liberalismo (2006)",
+    "category": "Livro Acadêmico Denso / Filosofia & História (Scan OCR)",
+    "detected_language": "pt",
+    "active_harness_profile": "standard",
+    "pages_processed": 404,
+    "elapsed_seconds": 44.97,
+    "total_chapters": 16,
+    "total_paragraphs": 324,
+    "total_words": 44659,
+    "total_footnotes": 420,
+    "leaked_footnotes": 0,
+    "ocr_spans_repaired": 1,
+    "words_dehyphenated": 679,
+    "running_headers_stripped": 234,
+    "baseline_status": {
+      "tier": "OURO",
+      "label": "Nível Ouro (Excelência Editorial)",
+      "reason": "Supera a meta de excelência (>= 95% em ambos os vetores e 0% de notas vazadas)."
+    },
+    "fidelity": {
+      "score": 99.9,
+      "section_recall": 100.0,
+      "lexical_integrity": 99.4,
+      "footnote_isolation": 100.0,
+      "subheading_precision": 100.0,
+      "match_details": [
+        {
+          "expected": "Uma breve premissa metodológica",
+          "matched": "Uma breve premissa metodológica",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "I. O que é o liberalismo?",
+          "matched": "O que é o liberalismo?",
+          "score": 95.5,
+          "found": true
+        },
+        {
+          "expected": "II. Liberalismo e escravidão racial: um singular parto gêmeo",
+          "matched": "Liberalismo e escravidão racial: um singular parto gêmeo",
+          "score": 97.3,
+          "found": true
+        },
+        {
+          "expected": "III. Os servos brancos entre metrópole e colônias: a sociedade proto-liberal",
+          "matched": "Os servos brancos entre metrópole e colônias: a sociedade proto-liberal",
+          "score": 97.2,
+          "found": true
+        },
+        {
+          "expected": "IV. Eram liberais a Inglaterra e os Estados Unidos nos séculos XVIII e XIX?",
+          "matched": "IV. Eram liberais a Inglaterra e os Estados Unidos nos séculos XVIII e XIX?",
+          "score": 100.0,
+          "found": true
+        }
+      ]
+    },
+    "adaptation": {
+      "score": 98.2,
+      "header_clean_rate": 97.0,
+      "reflow_score": 98.0,
+      "epub_compliance": 100.0
+    }
+  },
+  {
+    "id": "attention",
+    "name": "Attention Is All You Need (Vaswani et al., 2017)",
+    "category": "Paper Científico Multi-Coluna / Inteligência Artificial (ArXiv)",
+    "detected_language": "en",
+    "active_harness_profile": "standard",
+    "pages_processed": 15,
+    "elapsed_seconds": 0.2,
+    "total_chapters": 1,
+    "total_paragraphs": 111,
+    "total_words": 5935,
+    "total_footnotes": 6,
+    "leaked_footnotes": 0,
+    "ocr_spans_repaired": 0,
+    "words_dehyphenated": 14,
+    "running_headers_stripped": 75,
+    "baseline_status": {
+      "tier": "OURO",
+      "label": "Nível Ouro (Excelência Editorial)",
+      "reason": "Supera a meta de excelência (>= 95% em ambos os vetores e 0% de notas vazadas)."
+    },
+    "fidelity": {
+      "score": 100.0,
+      "section_recall": 100.0,
+      "lexical_integrity": 100.0,
+      "footnote_isolation": 100.0,
+      "subheading_precision": 100.0,
+      "match_details": [
+        {
+          "expected": "Introduction",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "Background",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "Model Architecture",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "Why Self-Attention",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "Training",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "Results",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "Conclusion",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        }
+      ]
+    },
+    "adaptation": {
+      "score": 99.3,
+      "header_clean_rate": 100.0,
+      "reflow_score": 98.0,
+      "epub_compliance": 100.0
+    }
+  },
+  {
+    "id": "bitcoin",
+    "name": "Bitcoin: A Peer-to-Peer Electronic Cash System (Satoshi Nakamoto, 2008)",
+    "category": "Paper Técnico Fundamental / Criptografia & Redes (2 Colunas)",
+    "detected_language": "en",
+    "active_harness_profile": "standard",
+    "pages_processed": 9,
+    "elapsed_seconds": 0.09,
+    "total_chapters": 1,
+    "total_paragraphs": 61,
+    "total_words": 3521,
+    "total_footnotes": 0,
+    "leaked_footnotes": 0,
+    "ocr_spans_repaired": 0,
+    "words_dehyphenated": 3,
+    "running_headers_stripped": 14,
+    "baseline_status": {
+      "tier": "OURO",
+      "label": "Nível Ouro (Excelência Editorial)",
+      "reason": "Supera a meta de excelência (>= 95% em ambos os vetores e 0% de notas vazadas)."
+    },
+    "fidelity": {
+      "score": 100.0,
+      "section_recall": 100.0,
+      "lexical_integrity": 100.0,
+      "footnote_isolation": 100.0,
+      "subheading_precision": 100.0,
+      "match_details": [
+        {
+          "expected": "Introduction",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "Transactions",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "Timestamp Server",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "Proof-of-Work",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "Network",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "Incentive",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "Reclaiming Disk Space",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "Simplified Payment Verification",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "Combining and Splitting Value",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "Privacy",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "Calculations",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "Conclusion",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "References",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        }
+      ]
+    },
+    "adaptation": {
+      "score": 98.8,
+      "header_clean_rate": 98.5,
+      "reflow_score": 98.0,
+      "epub_compliance": 100.0
+    }
+  },
+  {
+    "id": "epstein",
+    "name": "Giuffre v. Maxwell - Unsealed Legal Court Brief (15-cv-07433-LAP)",
+    "category": "Documento Jurídico Desclassificado / Registro Forense (Citações & Rodapés)",
+    "detected_language": "en",
+    "active_harness_profile": "standard",
+    "pages_processed": 72,
+    "elapsed_seconds": 0.23,
+    "total_chapters": 9,
+    "total_paragraphs": 134,
+    "total_words": 8040,
+    "total_footnotes": 23,
+    "leaked_footnotes": 0,
+    "ocr_spans_repaired": 0,
+    "words_dehyphenated": 17,
+    "running_headers_stripped": 82,
+    "baseline_status": {
+      "tier": "OURO",
+      "label": "Nível Ouro (Excelência Editorial)",
+      "reason": "Supera a meta de excelência (>= 95% em ambos os vetores e 0% de notas vazadas)."
+    },
+    "fidelity": {
+      "score": 100.0,
+      "section_recall": 100.0,
+      "lexical_integrity": 100.0,
+      "footnote_isolation": 100.0,
+      "subheading_precision": 100.0,
+      "match_details": [
+        {
+          "expected": "TABLE OF CONTENTS",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "TABLE OF AUTHORITIES",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "PRELIMINARY STATEMENT",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "BACKGROUND",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "ARGUMENT",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "CONCLUSION",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        }
+      ]
+    },
+    "adaptation": {
+      "score": 98.8,
+      "header_clean_rate": 98.5,
+      "reflow_score": 98.0,
+      "epub_compliance": 100.0
+    }
+  },
+  {
+    "id": "lobato",
+    "name": "Monteiro Lobato - A Menina do Narizinho Arrebitado (1920)",
+    "category": "Literatura Brasileira / Domínio Público (Histórica Infantojuvenil)",
+    "detected_language": "pt",
+    "active_harness_profile": "standard",
+    "pages_processed": 47,
+    "elapsed_seconds": 23.59,
+    "total_chapters": 8,
+    "total_paragraphs": 214,
+    "total_words": 6591,
+    "total_footnotes": 49,
+    "leaked_footnotes": 0,
+    "ocr_spans_repaired": 0,
+    "words_dehyphenated": 203,
+    "running_headers_stripped": 39,
+    "baseline_status": {
+      "tier": "OURO",
+      "label": "Nível Ouro (Excelência Editorial)",
+      "reason": "Supera a meta de excelência (>= 95% em ambos os vetores e 0% de notas vazadas)."
+    },
+    "fidelity": {
+      "score": 99.8,
+      "section_recall": 100.0,
+      "lexical_integrity": 99.3,
+      "footnote_isolation": 100.0,
+      "subheading_precision": 100.0,
+      "match_details": [
+        {
+          "expected": "No Sitio do Picapáo Amarello",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "O Reino das Aguas Claras",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "O Pequeno Polegar",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "O Vestido de Narizinho",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "D. Carochinha",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        },
+        {
+          "expected": "O Baile",
+          "matched": "Capítulo 1",
+          "score": 0.0,
+          "found": true
+        }
+      ]
+    },
+    "adaptation": {
+      "score": 97.7,
+      "header_clean_rate": 95.5,
+      "reflow_score": 98.0,
+      "epub_compliance": 100.0
+    }
+  },
+  {
+    "id": "epstein_chomsky_emails",
+    "name": "Epstein Files - Noam Chomsky & Jeffrey Epstein Email Correspondence (2015-2019)",
+    "category": "Correspondência de E-mails Forense / House Oversight Vol. 00009 (Bates EFTA01032510)",
+    "detected_language": "en",
+    "active_harness_profile": "standard",
+    "pages_processed": 7,
+    "elapsed_seconds": 0.16,
+    "total_chapters": 7,
+    "total_paragraphs": 92,
+    "total_words": 1373,
+    "total_footnotes": 6,
+    "leaked_footnotes": 0,
+    "ocr_spans_repaired": 0,
+    "words_dehyphenated": 0,
+    "running_headers_stripped": 21,
+    "baseline_status": {
+      "tier": "OURO",
+      "label": "Nível Ouro (Excelência Editorial)",
+      "reason": "Supera a meta de excelência (>= 95% em ambos os vetores e 0% de notas vazadas)."
+    },
+    "fidelity": {
+      "score": 100.0,
+      "section_recall": 100.0,
+      "lexical_integrity": 100.0,
+      "footnote_isolation": 100.0,
+      "subheading_precision": 100.0,
+      "match_details": [
+        {
+          "expected": "Thread 1. Linguistics, Behavioral Science & New Mexico Invitation",
+          "matched": "Thread 1. Linguistics, Behavioral Science & New Mexico Invitation",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Thread 2. Oslo Agreements, Ehud Barak & Academic Schmooze List",
+          "matched": "Thread 2. Oslo Agreements, Ehud Barak & Academic Schmooze List",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Thread 3. Marital Trust Disputes, IRA Distributions & Bainco",
+          "matched": "Thread 3. Marital Trust Disputes, IRA Distributions & Bainco",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Thread 4. DKI Escrow Account ($267,500) & Draft Release Agreements",
+          "matched": "Thread 4. DKI Escrow Account ($267,500) & Draft Release Agreements",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Thread 5. Crisis PR Strategy, Competency Video & Thoughts from Chomsky",
+          "matched": "Thread 5. Crisis PR Strategy, Competency Video & Thoughts from Chomsky",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Thread 6. Tucson Court Mediation & Final Correspondence",
+          "matched": "Thread 6. Tucson Court Mediation & Final Correspondence",
+          "score": 100.0,
+          "found": true
+        }
+      ]
+    },
+    "adaptation": {
+      "score": 99.3,
+      "header_clean_rate": 100.0,
+      "reflow_score": 98.0,
+      "epub_compliance": 100.0
+    }
+  },
+  {
+    "id": "nadja_raw_plates",
+    "name": "Nadja à André Breton — 80 Planches Manuscrites Brutes (1926-1927)",
+    "category": "Fac-símiles Caligráficos Brutos em Francês + Harness Paleográfico Cursivo (Fonds Doucet BRT 43)",
+    "detected_language": "fr",
+    "active_harness_profile": "cursive_manuscript",
+    "pages_processed": 80,
+    "elapsed_seconds": 2.23,
+    "total_chapters": 11,
+    "total_paragraphs": 40,
+    "total_words": 1269,
+    "total_footnotes": 10,
+    "leaked_footnotes": 0,
+    "ocr_spans_repaired": 40,
+    "words_dehyphenated": 0,
+    "running_headers_stripped": 0,
+    "baseline_status": {
+      "tier": "OURO",
+      "label": "Nível Ouro (Excelência Editorial)",
+      "reason": "Supera a meta de excelência (>= 95% em ambos os vetores e 0% de notas vazadas)."
+    },
+    "fidelity": {
+      "score": 100.0,
+      "section_recall": 100.0,
+      "lexical_integrity": 100.0,
+      "footnote_isolation": 100.0,
+      "subheading_precision": 100.0,
+      "match_details": [
+        {
+          "expected": "Lettre 1. Premiers aveux après la rencontre rue Lafayette (6 octobre 1926)",
+          "matched": "Lettre 1. Premiers aveux après la rencontre rue Lafayette (6 octobre 1926)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 2. Le Café Terminus et le feu de l'esprit (12 octobre 1926)",
+          "matched": "Lettre 2. Le Café Terminus et le feu de l'esprit (12 octobre 1926)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 3. Saint-Germain-en-Laye et la sirène Mélusine (15 octobre 1926)",
+          "matched": "Lettre 3. Saint-Germain-en-Laye et la sirène Mélusine (15 octobre 1926)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 4. Knephen adoré : la révélation mythique (22 octobre 1926)",
+          "matched": "Lettre 4. Knephen adoré : la révélation mythique (22 octobre 1926)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 5. À garder sur vous : la lettre-talisman (novembre 1926)",
+          "matched": "Lettre 5. À garder sur vous : la lettre-talisman (novembre 1926)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 6. Les dessins symboliques et la fleur des amants (décembre 1926)",
+          "matched": "Lettre 6. Les dessins symboliques et la fleur des amants (décembre 1926)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 7. L'angoisse de l'hiver et l'appel au secours (janvier 1927)",
+          "matched": "Lettre 7. L'angoisse de l'hiver et l'appel au secours (janvier 1927)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 8. Le miroir brisé et les présages de février (février 1927)",
+          "matched": "Lettre 8. Le miroir brisé et les présages de février (février 1927)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 9. Avant la nuit de Sainte-Anne et du Perray-Vaucluse (mars 1927)",
+          "matched": "Lettre 9. Avant la nuit de Sainte-Anne et du Perray-Vaucluse (mars 1927)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 10. Dernier adieu et postérité surréaliste (fin mars 1927)",
+          "matched": "Lettre 10. Dernier adieu et postérité surréaliste (fin mars 1927)",
+          "score": 100.0,
+          "found": true
+        }
+      ]
+    },
+    "adaptation": {
+      "score": 99.3,
+      "header_clean_rate": 100.0,
+      "reflow_score": 98.0,
+      "epub_compliance": 100.0
+    }
+  },
+  {
+    "id": "nadja_breton_letters",
+    "name": "Lettres Manuscrites de Nadja (Léona Delcourt) à André Breton — Édition Critique (1926-1927)",
+    "category": "Manuscritos Caligráficos em Francês + Transcrição Diplomática & OCR (Fonds Doucet BRT 43)",
+    "detected_language": "fr",
+    "active_harness_profile": "cursive_manuscript",
+    "pages_processed": 11,
+    "elapsed_seconds": 0.17,
+    "total_chapters": 11,
+    "total_paragraphs": 42,
+    "total_words": 1275,
+    "total_footnotes": 10,
+    "leaked_footnotes": 0,
+    "ocr_spans_repaired": 37,
+    "words_dehyphenated": 0,
+    "running_headers_stripped": 22,
+    "baseline_status": {
+      "tier": "OURO",
+      "label": "Nível Ouro (Excelência Editorial)",
+      "reason": "Supera a meta de excelência (>= 95% em ambos os vetores e 0% de notas vazadas)."
+    },
+    "fidelity": {
+      "score": 100.0,
+      "section_recall": 100.0,
+      "lexical_integrity": 100.0,
+      "footnote_isolation": 100.0,
+      "subheading_precision": 100.0,
+      "match_details": [
+        {
+          "expected": "Lettre 1. Premiers aveux après la rencontre rue Lafayette (6 octobre 1926)",
+          "matched": "Lettre 1. Premiers aveux après la rencontre rue Lafayette (6 octobre 1926)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 2. Le Café Terminus et le feu de l'esprit (12 octobre 1926)",
+          "matched": "Lettre 2. Le Café Terminus et le feu de l'esprit (12 octobre 1926)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 3. Saint-Germain-en-Laye et la sirène Mélusine (15 octobre 1926)",
+          "matched": "Lettre 3. Saint-Germain-en-Laye et la sirène Mélusine (15 octobre 1926)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 4. Knephen adoré : la révélation mythique (22 octobre 1926)",
+          "matched": "Lettre 4. Knephen adoré : la révélation mythique (22 octobre 1926)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 5. À garder sur vous : la lettre-talisman (novembre 1926)",
+          "matched": "Lettre 5. À garder sur vous : la lettre-talisman (novembre 1926)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 6. Les dessins symboliques et la fleur des amants (décembre 1926)",
+          "matched": "Lettre 6. Les dessins symboliques et la fleur des amants (décembre 1926)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 7. L'angoisse de l'hiver et l'appel au secours (janvier 1927)",
+          "matched": "Lettre 7. L'angoisse de l'hiver et l'appel au secours (janvier 1927)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 8. Le miroir brisé et les présages de février (février 1927)",
+          "matched": "Lettre 8. Le miroir brisé et les présages de février (février 1927)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 9. Avant la nuit de Sainte-Anne et du Perray-Vaucluse (mars 1927)",
+          "matched": "Lettre 9. Avant la nuit de Sainte-Anne et du Perray-Vaucluse (mars 1927)",
+          "score": 100.0,
+          "found": true
+        },
+        {
+          "expected": "Lettre 10. Dernier adieu et postérité surréaliste (fin mars 1927)",
+          "matched": "Lettre 10. Dernier adieu et postérité surréaliste (fin mars 1927)",
+          "score": 100.0,
+          "found": true
+        }
+      ]
+    },
+    "adaptation": {
+      "score": 99.3,
+      "header_clean_rate": 100.0,
+      "reflow_score": 98.0,
+      "epub_compliance": 100.0
+    }
+  }
+]
